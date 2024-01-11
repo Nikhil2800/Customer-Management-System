@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.a{
+      padding: 10px 200px
+ }
+#formbg {
+  background-color: rgb(226, 243, 250);
+}
+
+#form1 h2 {
+  font-size: 60px;
+  font-family: 'Great Vibes', cursive;
+}
+
+.ni {
+
+  padding: 10px 400px 10px 0px;
+  text-align: center;
+}#back{
+	background-color: rgb(175, 209, 203);
+}
+.bg{
+	background: url("images/background.jpg") no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 100px;
+
+}
